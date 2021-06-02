@@ -1,4 +1,9 @@
-# MusicBoxAppAngular
+# Music Box App Angular
+
+## Description
+Music box application developed in Angular. 
+
+![](./src/assets/Screenshot.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
 
